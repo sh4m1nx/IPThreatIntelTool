@@ -15,7 +15,7 @@ A Python-based IP threat intelligence toolkit that helps cybersecurity analysts 
 
 ## 📁 Included Scripts
 
-### ✅ `IPThreatIntelTool.py'
+### ✅ `IPThreatIntelTool.py`
 
 Main tool using external APIs including Shodan. Recommended for deep, individual IP analysis.
 
